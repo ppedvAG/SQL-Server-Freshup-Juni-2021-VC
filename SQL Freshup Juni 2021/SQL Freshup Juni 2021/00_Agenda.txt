@@ -1,0 +1,28 @@
+Andreas Rauch
+andreasr@ppedv.de
+
+SQL Admin /TSQL
+SQLdays
+
+9:00  16:30
+10:30 15min
+12:15  13:15 1 h
+14:45
+
+
+------------------------------------
+von SQL 2012/2016     SQL 2019
+Admin/TSQL (Proc vs Views  vs F() vs Adhoc)
+
+
+
+
+
+
+
+
+
+
+
+
+
