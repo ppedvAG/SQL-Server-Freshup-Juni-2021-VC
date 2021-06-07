@@ -4,7 +4,7 @@
 --64 bis 1000 8
 --> 1000 16
 
-dbcc loginfo --undokumentiert!--nkeine 1000 VLFs
+dbcc loginfo --undokumentiert!--keine 1000 VLFs
 
 --zu viele Fragemntierung.. langsam beim INsert
 --zu groﬂe =langsam ..
