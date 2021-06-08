@@ -1,4 +1,4 @@
---GR IX nur einmal pro Tabelle
+--GR IX nur einmal pro Tabelle -= Tabelle
 --where : Bereichsabfragen besonders gut , aber auch bei =
 
 --NICHT GR IX  Kopie der Daten 1000 pro Tabelle
