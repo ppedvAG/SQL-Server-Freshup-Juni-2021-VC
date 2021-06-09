@@ -5,5 +5,28 @@ SQL Server Freshup Kurs Juni
 	* Setup maxdop, Ram, Volumewartungstask
 
 ## DB Settings
-	* Initialgrößen
+	* InitialgrÃ¶ÃŸen
 	* Scoped Database
+	
+## Neuerungen TSQL
+
+## Security
+	* Row level
+	* Always Encrypted
+	* Dynamic Data Masking
+	
+## Replikation	
+
+## Temporal Tables
+
+## Zeilversionierung
+
+## Indizes
+	* Ãœbersicht 
+	* Columnstore
+## Tools
+	* Azure Data Studio
+	* Xevents
+	* DTA
+	* Profiler & Perfmon
+	
